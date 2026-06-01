@@ -1,0 +1,13 @@
+{
+  "name": "shopify-upc-scanner",
+  "version": "1.0.0",
+  "description": "Shopify Order UPC Verification App",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "@shopify/shopify-api": "^9.0.0",
+    "cookie": "^0.6.0"
+  }
+}
